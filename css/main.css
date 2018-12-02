@@ -63,7 +63,7 @@ body {
 
 .navbar-default {
     background-color: #201e1e;
-    border-color: #ae9999;
+    border-color: #f9a409;
     border-width: 0px;
     border-bottom-width: 4px;
     border-radius: 0px;
@@ -103,7 +103,7 @@ body {
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu {
-    background-color: #ae9999;
+    background-color: #f9a409;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
@@ -204,7 +204,7 @@ body {
     }
     .store:hover {
         background-color: transparent!important;
-        color: #ae9999 !important;
+        color: #f9a409 !important;
     }
 }
 
@@ -223,7 +223,7 @@ body {
 }
 
 .home-page h1 {
-    background-color: #ae9999;
+    background-color: #f9a409;
     border-radius: 2em;
     color: #FFF;
     text-align: center;
@@ -264,11 +264,11 @@ body {
 .topbar {
     text-align: center;
     padding: 10px;
-    background: #ae9999;
+    background: #f9a409;
     color: white;
     text-transform: uppercase;
     border-width: 0px;
-    border-top-color: #ae9999;
+    border-top-color: #f9a409;
     border-top-width: 50px;
     border-style: solid;
 }
