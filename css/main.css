@@ -63,7 +63,7 @@ body {
 
 .navbar-default {
     background-color: #201e1e;
-    border-color: #f9a409;
+    border-color: #ad1138;
     border-width: 0px;
     border-bottom-width: 4px;
     border-radius: 0px;
@@ -99,11 +99,11 @@ body {
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #f9a409;
+    color: #ad1138;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu {
-    background-color: #f9a409;
+    background-color: #ad1138;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
@@ -184,7 +184,7 @@ body {
 }
 
 .store {
-    background-color: #f9a409 !important;
+    background-color: #ad1138 !important;
     border-radius: 100em;
     text-align: center;
     padding: 5px 15px !important;
@@ -204,7 +204,7 @@ body {
     }
     .store:hover {
         background-color: transparent!important;
-        color: #f9a409 !important;
+        color: #ad1138 !important;
     }
 }
 
@@ -223,7 +223,7 @@ body {
 }
 
 .home-page h1 {
-    background-color: #f9a409;
+    background-color: #ad1138;
     border-radius: 2em;
     color: #FFF;
     text-align: center;
@@ -264,11 +264,11 @@ body {
 .topbar {
     text-align: center;
     padding: 10px;
-    background: #f9a409;
+    background: #ad1138;
     color: white;
     text-transform: uppercase;
     border-width: 0px;
-    border-top-color: #f9a409;
+    border-top-color: #ad1138;
     border-top-width: 50px;
     border-style: solid;
 }
