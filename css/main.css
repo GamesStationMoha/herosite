@@ -99,7 +99,7 @@ body {
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #ae9999;
+    color: #f9a409;
 }
 
 .navbar-default .navbar-nav > li > .dropdown-menu {
@@ -184,7 +184,7 @@ body {
 }
 
 .store {
-    background-color: #ae9999 !important;
+    background-color: #f9a409 !important;
     border-radius: 100em;
     text-align: center;
     padding: 5px 15px !important;
